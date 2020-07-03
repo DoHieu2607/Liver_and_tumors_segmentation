@@ -7,7 +7,11 @@
 Bộ dữ liệu nhóm nghiên cứu sử dụng được đề cập trong bài báo của tác giả [Hieu Trung Huynh](https://link.springer.com/article/10.1007/s11548-016-1498-9) (vì tính bảo mật của dữ liệu, nhóm nghiên cứu sẽ không public data).
 
 ## Getting Started
- Để phục vụ cho ra kết quả trong nghiên cứu này, nhóm nghiên cứu đã sử dụng ggColab để chạy mô hình trích xuất gan, u gan. Toàn bộ thông tin xử lý dữ liệu và xây dựng mô hình được miêu tả trong file tóm tắt [liver_segmentation](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/liver_segmentation.docx). Toàn bộ code chương trình nằm trong file [liver_segmentationn.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_segmentation.ipynb) và file [liver_tumor_segmentation.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_tumor_segmentation)
+ Để phục vụ cho ra kết quả trong nghiên cứu này, nhóm nghiên cứu đã sử dụng ggColab để chạy mô hình trích xuất gan, u gan. Toàn bộ thông tin xử lý dữ liệu và xây dựng mô hình được miêu tả trong file tóm tắt [liver_segmentation](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/liver_segmentation.docx). 
+
+Toàn bộ code chương trình, bao gồm:
+ + Trích xuất gan nằm trong file [liver_segmentationn.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_segmentation.ipynb).
+ + Trích xuất u gan nằm trong file [liver_tumor_segmentation.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_tumor_segmentation)
 
 ## Results
 
