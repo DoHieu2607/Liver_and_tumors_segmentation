@@ -1,18 +1,25 @@
 # Liver_and_tumors_segmentation
 
-Đây là bài nghiên cứu khoa học cấp sinh viên trường Đại học Sài Gòn. Tên đề tài: Áp dụng tính toán thông minh để trích xuất gan và u gan trên ảnh MR 3D. Mục tiêu của đề tài này là đề xuất mô hình sử dụng các thuật toán để trích xuất gan và u gan trên ảnh MR. Nhóm nghiên cứu đã đề xuất mô hình sử dụng thuật toán FCN trong deep learning với kiến trúc Unet 2D để giải quyết bài toán này. 
+This is a student-level research paper at Saigon University. 
+
+Project title:***Apply intelligent calculations to segmentaiton liver and liver tumor on MRI 3D.*** 
+
+The goal of this research is to propose a model using algorithms to segmentation the liver and liver tumors on MR images.
+
+The research team proposed a model using FCN algorithm in deep learning with Unet 2D architecture to solve this problem.
 
 ## Data
 
-Bộ dữ liệu nhóm nghiên cứu sử dụng được đề cập trong bài báo của tác giả [Hieu Trung Huynh](https://link.springer.com/article/10.1007/s11548-016-1498-9) (vì tính bảo mật của dữ liệu, nhóm nghiên cứu sẽ không public data).
+The data set we used to research is mentioned by [Hieu Trung Huynh](https://link.springer.com/article/10.1007/s11548-016-1498-9) (because of data security, we will not public data here).
 
 ## Getting Started
- Để phục vụ cho ra kết quả trong nghiên cứu này, nhóm nghiên cứu đã sử dụng ggColab để chạy mô hình trích xuất gan, u gan. Toàn bộ thông tin xử lý dữ liệu và xây dựng mô hình được miêu tả trong file tóm tắt [liver_segmentation](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/liver_segmentation.docx). 
 
-Toàn bộ code chương trình, bao gồm:
- + Trích xuất gan nằm trong file [liver_segmentationn.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_segmentation.ipynb).
- + Trích xuất u gan nằm trong file [liver_tumor_segmentation.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_tumor_segmentation)
+To serve the results of this study, we used ggColab to run a model of liver and liver tumor segmentation. All data processing and model building information is described in the summary file [liver_segmentation](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/liver_segmentation.docx) (Vietnames language)
+
+All our code will be show here:
+ + [liver_segmentationn.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_segmentation.ipynb).
+ + [liver_tumor_segmentation.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_tumor_segmentation)
 
 ## Results
 
-Toàn bộ kết quả sẽ được hiển thị trong file results.ipynb.
+Our results will be show in 
