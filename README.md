@@ -6,7 +6,7 @@ Project title:***Apply intelligent calculations to segmentaiton liver and liver 
 
 The goal of this research is to propose a model using algorithms to segmentation the liver and liver tumors on MR images.
 
-The research team proposed a model using FCN algorithm in deep learning with Unet 2D architecture to solve this problem.
+The research team proposed a model using **FCN algorithm** in deep learning with **Unet 2D architecture** to solve this problem.
 
 ## Data
 
@@ -14,7 +14,7 @@ The data set we used to research is mentioned by [Hieu Trung Huynh](https://link
 
 ## Getting Started
 
-To serve the results of this study, we used ggColab to run a model of liver and liver tumor segmentation. All data processing and model building information is described in the summary file [liver_segmentation](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/liver_segmentation.docx) (Vietnames language)
+To serve the results of this study, we used ggColab to run models of liver and liver tumor segmentation. All data processing and model building information is described in the summary file [liver_segmentation](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/liver_segmentation.docx) (Vietnamese language)
 
 All our code will be show here:
  + [liver_segmentationn.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_segmentation.ipynb).
