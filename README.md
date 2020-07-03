@@ -2,7 +2,7 @@
 
 This is a student-level research paper at Saigon University. 
 
-Project title:***Apply intelligent calculations to segmentaiton liver and liver tumor on MRI 3D.*** 
+Project title: ***Apply intelligent calculations to segmentaiton liver and liver tumor on MRI 3D.*** 
 
 The goal of this research is to propose a model using algorithms to segmentation the liver and liver tumors on MR images.
 
