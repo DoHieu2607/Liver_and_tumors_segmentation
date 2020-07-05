@@ -19,10 +19,10 @@ To serve the results of this study, we used ggColab to run models of liver and l
 ## Our solutions and code
 All data processing and model building information is described in the summary file [liver_segmentation](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/liver_segmentation.docx) (Vietnamese language)
 
-All our code will be show here:
+Our code will be show here:
  + [liver_segmentationn.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_segmentation.ipynb).
  + [liver_tumor_segmentation.ipynb](https://github.com/hieukut456/Liver_and_tumors_segmentation/blob/master/Liver_tumor_segmentation)
 
 ## Results
 
-Our results will be show in 
+Our results will be show in image_liver folder
