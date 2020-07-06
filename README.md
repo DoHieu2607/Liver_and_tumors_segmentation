@@ -10,7 +10,7 @@ The research team proposed a model using **FCN algorithm** in deep learning with
 
 ## Data
 
-The data set we used to research is mentioned by [Hieu Trung Huynh](https://link.springer.com/article/10.1007/s11548-016-1498-9) (because of data security, we will not public data here).
+The data set we used to research is mentioned by [Hieu Trung Huynh](https://link.springer.com/article/10.1007/s11548-016-1498-9) .
 
 ## Getting Started
 
